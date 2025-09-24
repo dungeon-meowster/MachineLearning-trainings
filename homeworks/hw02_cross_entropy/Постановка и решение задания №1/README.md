@@ -1,10 +1,12 @@
-# Attention implementation
+# Cross-entropy method 1: Taxi
 
 Ноутбук доступен в репозитории.
 
 Ограничение времени	-- 20 секунд
 Ограничение памяти	-- 256 Мб
-Ввод	-- стандартный ввод или no input
-Вывод	-- стандартный вывод или tests.log
+Ввод	-- no input
+Вывод	-- tests.log
 
-Выполните задания по имплементации Multiplicative и Additive attention, указанные в ноутбуке. После решения задачи перенесите код соответствующих функций в файл template_p01.py (доступен в репозитории) и сдайте его.
+Ноутбук доступен в репозитории: https://github.com/girafe-ai/ml-course/tree/25f_ml_trainings_4/homeworks/hw02_cross_entropy
+
+Выполните задания в первой части ноутбука (Tabular CrossEntropy). После решения задачи Taxi-v3 перенесите необходимые функции в файл template_crossentropy.py и сдайте полученный файл
